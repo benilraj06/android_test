@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AndroidTest"
+rootProject.name = "NetScope"
 include(":app")

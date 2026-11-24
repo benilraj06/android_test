@@ -18,5 +18,5 @@ jobs:
       - run: ./gradlew assembleDebug
       - uses: actions/upload-artifact@v4
         with:
-          name: app-debug
+          name: netscope-debug
           path: app/build/outputs/apk/debug/*.apk
